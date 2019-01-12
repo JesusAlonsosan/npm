@@ -1,0 +1,36 @@
+
+
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    padding-top: 15px;
+    height: 100px;
+  }
+  
+  nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+    
+  }
+
+  
+.h0l4 {
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+}
+.h0l4 ul {
+    float: right;
+    display: -ms-flexbox;
+    display: flex;
+    margin: 0 20px 0 0;
+}
+.h0l4 li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.r0sh {
+    float: right;
+    display: -ms-flexbox;
+    display: flex;
+}
